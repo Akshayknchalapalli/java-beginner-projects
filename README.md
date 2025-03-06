@@ -92,8 +92,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [Akshayknchalapalli](https://github.com/Akshayknchalapalli)
+- Email: akshaysmart31@gmail.com
 
 ---
 Happy coding! 🚀
