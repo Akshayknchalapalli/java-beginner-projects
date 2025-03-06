@@ -70,6 +70,10 @@ TaskTracker/
 │── README.md                               # Documentation
 ```
 
+## Roadmap
+For a detailed roadmap of the Task Tracker project, check out the guide at:
+[Task Tracker Roadmap](https://roadmap.sh/projects/task-tracker)
+
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
 1. Fork the repository.
